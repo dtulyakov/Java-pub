@@ -1,0 +1,17 @@
+*~
+.metadata/
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+#IDE
+#*/nbproject/private/
+#*/build/
+#*/.classpath
+#*/manifest.mf
+#*/nbproject
+#*/.project
+#*/.settings
