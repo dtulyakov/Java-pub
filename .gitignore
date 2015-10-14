@@ -1,6 +1,11 @@
+*~
+.metadata/
+
 *.class
 
 # Package Files #
 *.jar
 *.war
 *.ear
+/My_Project/nbproject/private/
+/My_Project/build/
