@@ -1,17 +1,42 @@
+#ALL
 *~
-.metadata/
-
-*.class
 
 # Package Files #
+*target*
 *.jar
 *.war
 *.ear
-#IDE
-#*/nbproject/private/
-#*/build/
-#*/.classpath
-#*/manifest.mf
-#*/nbproject
-#*/.project
-#*/.settings
+*.class
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+.nb-gradle/
+
+# eclipse specific git ignore
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
